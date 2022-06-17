@@ -1,0 +1,44 @@
+/*Background styling*/
+body{
+  margin: 0;
+  padding: 0;
+  background: url(https://cdn.pixabay.com/photo/2016/10/18/21/22/beach-1751455_1280.jpg)  no-repeat center center fixed;
+  background-size: auto;
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 100%;
+  overflow: hidden;
+
+
+}
+/*Styling for images*/
+.Img1{
+   border-radius: 200px;
+  
+   top: 100px;
+   text-align: right;
+   flex-basis: 40%;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   display: inline-block;
+   margin-top: 200px; 
+   margin-right: 1000px;
+}
+/*container Styling*/
+.container5 {
+    
+    padding-left: 20px;
+    font-size: 15px;
+    top: 200px;
+    overflow: hidden;
+    text-align: justify;
+    width: [width of img];
+    color: white;
+    margin-top: 100px; 
+    
+  }
+  
+
+ 
+   
